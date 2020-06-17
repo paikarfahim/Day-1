@@ -1,2 +1,4 @@
 Hello, My name is Fahim.
 Today we are learning git.
+it's the second day of git.
+i am very happy to learn more about the git.
